@@ -1,16 +1,11 @@
-### Hi there 👋
+## Hello
 
-<!--
-**gruco0002/gruco0002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi, my name is Corbinian and i study computer science at the Albert-Ludwigs-University of Freiburg.
+I'm also working as a software developer. In my spare time I like to code on small and large projects.
+I'm most interested in:
+* Simulation (Fluid Solvers, SPH)
+* Computer Graphics
+* C++ and performance
+* Delphi / Pascal
+* Flutter
+* UI Development
